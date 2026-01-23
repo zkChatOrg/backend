@@ -1,0 +1,13 @@
+{
+  "name": "zk-relay",
+  "version": "1.0.7",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.14.2",
+    "pg": "8.11.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
